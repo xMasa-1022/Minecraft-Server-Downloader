@@ -1,0 +1,4 @@
+*.minecraftserverdownloader
+*.spec
+/build/
+/dist/
